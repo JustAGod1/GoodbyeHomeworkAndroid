@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Goodbye Homework</string>
+    <string name="sign_in">Войти</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="sign_in_title">Вход</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="registration">Регистрация</string>
+    <string name="example_first_name">Вася</string>
+    <string name="example_last_name">Пупкин</string>
+    <string name="password_again">Еще раз</string>
+    <string name="first_last_name_mismatch_warning">Имя и фамилия должны состоять только из русских или английских букв</string>
+    <string name="mail_mismatch_warning">Это не похоже на мэил</string>
+    <string name="password_mismatch_warning">Пароль должен состоять как минимум из 8 английских букв и цифр</string>
+    <string name="passwords_dont_match_warning">Пароли не совпадают</string>
+    <string name="first_name_empty_warning">Имя должно быть!</string>
+    <string name="last_name_empty_warning">Фамилия должна быть!</string>
+    <string name="first_last_name_empty_warning">Имя и фамилия должны быть!</string>
+    <string name="first_name_mismatch_warning">Имя должно состоять только из русских или английских букв</string>
+    <string name="last_name_mismatch_warning">Фамилия должна содержать только русские или английские буквы</string>
+    <string name="mail_empty_warning">Почта очень нужна!</string>
+    <string name="password_empty_warning">Пароль необходим!</string>
+    <string name="wrong_login_or_password">Неверный логин или пароль</string>
+    <string name="title_room_enter">Надо ввести id комнаты. Id можно выяснить у любого участника комнаты.</string>
+    <string name="action_settings">Настройки</string>
+    <string name="enter">Войти</string>
+    <string name="room_id_example">Пример:123456</string>
+    <string name="title_room_create">Создать свою комнату</string>
+    <string name="lets_go">Вперед</string>
+</resources>

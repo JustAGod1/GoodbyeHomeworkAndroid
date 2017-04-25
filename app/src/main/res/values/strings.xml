@@ -1,0 +1,41 @@
+<resources>
+    <!-- Данные -->
+    <string name="db_login" translatable="false">db_login</string>
+    <string name="db_password" translatable="false">db_password</string>
+
+    <string name="app_name">Goodbye Homework</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in_title">Signing in</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="registration">Registration</string>
+    <string name="example_first_name">John</string>
+    <string name="example_last_name">Smith</string>
+    <string name="password_again">Again</string>
+    <string name="first_last_name_mismatch_warning">Name and last name must contains only english or russian letters</string>
+    <string name="mail_mismatch_warning">It doesn\'t looks like email!</string>
+    <string name="password_mismatch_warning">Password must contains at least 8 english letters and numbers</string>
+    <string name="passwords_dont_match_warning">Passwords dont match</string>
+    <string name="first_name_empty_warning">First name is empty!</string>
+    <string name="last_name_empty_warning">Last name is empty!</string>
+    <string name="first_last_name_empty_warning">First and last name are empty!</string>
+    <string name="first_name_mismatch_warning">Name must contains only russian or english letters</string>
+    <string name="last_name_mismatch_warning">Last name must contains only russian or english letters</string>
+    <string name="mail_empty_warning">Mail is empty!</string>
+    <string name="password_empty_warning">Passwords are empty</string>
+    <string name="wrong_login_or_password">Wrong login or password</string>
+    <string name="school_name_key" translatable="false">shool_name</string>
+    <string name="class_name_key" translatable="false">class_name</string>
+    <string name="class_amount_key" translatable="false">class_amount</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_room_enter">You have to enter room id. You can ask room\'s members for id.</string>
+    <string name="enter">Enter</string>
+    <string name="room_id_example">Example:123456</string>
+    <string name="title_room_create">Create your own room!</string>
+    <string name="lets_go">Lets go</string>
+
+</resources>
